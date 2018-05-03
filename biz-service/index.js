@@ -5,4 +5,3 @@
  */
 console.log('biz service index.js')
 
-// vlub
